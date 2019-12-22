@@ -1,0 +1,12 @@
+{
+  "name": "devbot",
+  "version": "0.1.0",
+  "description": "Projet Discord Fantasia",
+  "main": "main.js",
+  "repository": "https://github.com/mio-dev/dev-bot.git",
+  "author": "mio-dev <fantabot@gmx.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
